@@ -34,8 +34,8 @@ dev = [
 biochar-pfas = "biochar_pfas.cli:main"
 
 [project.urls]
-Homepage = "https://github.com/jolayfield/biochar-pfas"
-Repository = "https://github.com/jolayfield/biochar-pfas"
+Homepage = "https://github.com/layfield-lab/biochar-pfas"
+Repository = "https://github.com/layfield-lab/biochar-pfas"
 
 [tool.setuptools.packages.find]
 where = ["."]

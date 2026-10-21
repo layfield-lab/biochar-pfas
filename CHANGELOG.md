@@ -39,5 +39,5 @@ invokes `ligpargen`/`gmx` or submits a cluster job.
   `--no-deps`; the `biochar`-integrated tests skip cleanly in CI and run locally
   where `biochar` is installed.
 
-[Unreleased]: https://github.com/jolayfield/biochar-pfas/compare/v0.1.0...HEAD
-[0.1.0]: https://github.com/jolayfield/biochar-pfas/releases/tag/v0.1.0
+[Unreleased]: https://github.com/layfield-lab/biochar-pfas/compare/v0.1.0...HEAD
+[0.1.0]: https://github.com/layfield-lab/biochar-pfas/releases/tag/v0.1.0
