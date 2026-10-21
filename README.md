@@ -1,7 +1,7 @@
 # biochar-pfas
 
 A PFAS-sorption MD-setup workflow built **on top of** the independent
-[`biochar-simulator`](https://github.com/layfield-lab/Biochar-simulator) tool.
+[`biochar-simulator`](https://github.com/layfield-lab/biochar) tool.
 
 `biochar-simulator` generates and equilibrates biochar surfaces and knows
 nothing about PFAS. `biochar-pfas` is the *application* that drives it to set up
